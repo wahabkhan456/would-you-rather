@@ -1,0 +1,19 @@
+.dashboard-container{
+  text-align: center;
+}
+
+
+.login-container{
+  margin:2%;
+  width:45vw;
+  position: absolute;
+  top:40%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+  
+}
+
+.Select-menu-outer__menu{
+  z-index: 10000 !important;
+}
